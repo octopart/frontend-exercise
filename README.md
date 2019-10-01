@@ -2,7 +2,7 @@
 
 ## Install
 
-Clone the branch to your local machine. Then,
+Clone the repo to your local machine. Then,
 ```bash
 npm install
 ```
